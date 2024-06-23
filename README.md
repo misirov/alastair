@@ -3,6 +3,8 @@
 Cairo contract function calling with hermes-2
 
 
+> All keys and accounts are from Katana local node.
+
 ```
 └─ $ python main.py 
 Initializing NPCContract...
